@@ -1,0 +1,10 @@
+Video tests:
+
+First test - Motor control:
+	https://www.youtube.com/watch?v=ADkz-hN5q1U
+Second test - Four motors (speed contro - calibration - Sync):
+	https://www.youtube.com/watch?v=QIXCuklesOs
+Third test - motor balancing
+	https://www.youtube.com/watch?v=9BUDFJfgEbQ
+Forth test - AP mode, OSC, battery provided power, Edison stability, elevation:
+	https://youtu.be/4uC_Rd7Gfuc

@@ -1,0 +1,14 @@
+2/25/2016 Progress Update:
+	We have met last night (24th of Feb) to conduct further work to progress our mission.
+	We have managed to achieve the following objectives:
+		- Test the stability of Edison when powered through a LiPo Battery as the motors simultaneously.
+			Result: no current issues whatsoever.
+		- Test Edison's automated Sketch execution.
+			Result: works initially, crashes after 5 minutes.
+		- Test the performance of our code, the purpose of which is to control the Arduino through UDP packages sent over WiFi to the Edison in AP mode in an OSC format from peer devices directly connection to the Edison.
+			Result: fully function, though a calibration segment needs further improvements as well as some safety measures.
+			Attachments: [repo:/Code/OSC_dControl_v0.1.c]
+				     [repo:/Code/OSCdecode/OSCDecode.h]
+		- Elevate the drone remotely.
+			Result: Success, demonstration can be seen at:
+				https://youtu.be/4uC_Rd7Gfuc

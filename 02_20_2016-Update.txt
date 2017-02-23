@@ -1,0 +1,18 @@
+2/20/2016 Progress Update:
+	We have met last night to work on motor balancing and auto-starting the control sketch on power up.
+	Unfortunately, our efforts to auto-run the sketch as soon as the Arduino is powered have failed.
+	However, we managed to balance three out of four motors.
+	A video demonstrating the balancing process:
+	https://www.youtube.com/watch?v=9BUDFJfgEbQ
+	We are on track to meet tomorrow night to finish balancing the motors and start balancing the propellers as well as reattempt to autoboot the sketch if time permits.
+Since this is our first update, we'll also include previous updates here:
+	We have met twice a week since week 5, we've also been constantly connecting through various methods including Slack platform, SMS, etc..
+	We have accomplished the following:
+		- Defined our plan and selected our parts
+		- Acquired all the parts
+		- Assimilated the drone
+		- Soldered the wire connections from the ESCs to the motors
+		- Soldered the wire connections from the battery to all the ESCs and the Arduino board
+		- Calibrated the ESCs
+		- Completed the software to control all motors through Serial connection
+		

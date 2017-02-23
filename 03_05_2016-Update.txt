@@ -1,0 +1,12 @@
+3/05/2016 Progress Update:
+	We had 3 meetings this week, Monday (02/29), Wednesday (03/02) and Friday (03/04).
+	During our meetings we managed to achieve the following:
+		- Fully integrated the MPU-6050 (Motion Processing Unit, basically and Gyroscope and an Accelerometer) into our hardware set-up
+		- Calibrate the MPU-6050
+		- Got the Yaw, Pitch and Roll readings from the MPU using the MPU6050 Library, Wire and I2C interface
+		- We learned about the PID (Proportional Integral Derivative) algorithm, which is required for our "stabilization".
+		- Attempted to implement PID into our code, but then ran into the PID library.
+		- Debugged PID library
+		- Fully integrated PID into our code
+		- While tuning the PID constants, we learned that there is a problem with our control (inconsistent increment, jumps in speed, lack of fine-control)
+	We are currently researching solutions for our problem, it is the last problem yet the most critical, one we solve this problem our project will be complete.

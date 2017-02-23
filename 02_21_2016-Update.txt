@@ -1,0 +1,8 @@
+2/21/2016 Progress Update:
+	During our meeting tonight we managed to balance the final motor as well as fix the auto-boot problem that we had during our last meeting (02/19).
+	We also spent a few hours learning about UDP packets, Edison's WiFi, TouchOSC, OSCuino.
+	And finally, we managed to get our phones to communicate with the arduino through touchOSC, OSCuino and wiFi.
+	We managed to get OSCuino working with the WiFi library by modyfing the OSCData file in the original library.
+	We also managed to get the size of the packets sent from the phone to the Arduino, however, we are having problem with parsing the packet into the actual interface data.
+	We will attempt to fix this problem on our freetime and hopefully by the time for our meeting this Wednesday.
+	*Note: We decided to push back the prop balancing as the ability to operate the drone with our phones is more critical to our progress at this point.
